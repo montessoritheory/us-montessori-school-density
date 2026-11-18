@@ -6,7 +6,7 @@
 
 **English first, version française plus bas, resumen en español al final.**
 
-An open dataset from **[Montessori School Finder](https://www.montessorischoolfinder.com/)**, the worldwide directory of Montessori schools, built with **[Montessori Theory](https://www.montessori-theory.com/)**.
+An open dataset from **[Montessori School Finder](https://www.montessorischoolfinder.com/)**, the worldwide directory of Montessori schools.
 
 ## How Many Montessori Schools Does Your State Have For Its Children?
 
@@ -31,9 +31,13 @@ For every state and for every county with at least one school, you get the numbe
 
 Count and rate tell different stories. California ranks first for schools and twelfth for rate. Texas ranks second for schools and twenty-third for rate. New Hampshire and Montana rank first and second for rate with only 18 and 14 schools.
 
+![US Montessori density in six numbers](images/key_numbers.png)
+
+![Map of Montessori private schools per 10,000 children under 5, by state](images/density_map.png)
+
 ![The 15 states with the most Montessori schools per child](images/state_ranking.png)
 
-![Map of Montessori private schools per 10,000 children under 5](images/density_map.png)
+![School count against rate, one bubble per state](images/count_vs_rate.png)
 
 ![The 15 densest counties](images/top_counties.png)
 
@@ -80,7 +84,7 @@ Each state has its own page on Montessori School Finder, listed in the `msf_url`
 | `source/` | the school counts and the private school total this dataset starts from |
 | `scripts/` | `build_dataset.py`, `verify.py` and `make_charts.py` rebuild every table and image |
 | `notebooks/starter.ipynb` | a starter notebook, already run |
-| `images/` | the cover and the three charts above |
+| `images/` | the cover and the five visuals above |
 
 ### Columns
 
@@ -148,22 +152,26 @@ The code in `scripts/` rebuilds everything from the two inputs.
 - **Private schools only.** Public Montessori schools (district and charter) are not in the PSS and not in this dataset. In states with many public Montessori programs, the real supply is higher than shown.
 - **Kindergarten and above only.** The PSS covers private schools that offer kindergarten or a higher grade. A Montessori program for infants, toddlers or 3-year-olds only does not appear. The rate undercounts early programs.
 - **Age groups do not line up.** The denominator counts children aged 0 to 4. Many of these schools teach older children too. The rate is a density measure, not a share of children enrolled.
-- **Self-reported Montessori.** "Montessori" is the school's own answer in the survey. It does not mean AMS or AMI accreditation. Our guide to [AMI vs AMS](https://www.montessori-theory.com/ami-vs-ams-montessori-differences/) explains the difference.
-- **Small numbers.** New Hampshire, Montana, Vermont, Maine, Idaho and DC rank high or low on 18 schools or fewer. One school more or less changes their rank. In the state chart, blue bars flag those.
+- **Self-reported Montessori.** "Montessori" is the school's own answer in the survey. It does not mean AMS or AMI accreditation. Our guide to [AMI vs AMS](https://www.montessorischoolfinder.com/guides/ami-vs-ams/) explains the difference.
+- **Small numbers.** New Hampshire, Montana, Vermont, Maine, Idaho and DC rank high or low on 18 schools or fewer. One school more or less changes their rank. In the state chart, amber dots flag those.
 - **A county is not a commuting zone.** Families cross county lines, so a county with no school may sit next to one with several.
 - **Counties without a school are not in `by_county.csv`.** 2,574 counties have none in the file, including 213 with at least 5,000 children under 5. Their count and the share of children who live in them are in `national_summary.csv`.
 - **No state share of private schools.** The PSS school total by state is not part of the source files used here, so a Montessori share of private schools is given only for the nation (9.2 %).
 - **Estimates have error.** Census figures are estimates. Small counties carry more uncertainty.
 - **Counts, not quality.** The dataset says nothing about how good a school is.
 
+### Image Credits
+
+Cover photo by Anil Sharma on [Pexels](https://www.pexels.com/photo/40282981/), Pexels License. State outlines in the density map come from the Albers state file in `scripts/`. Charts by Montessori School Finder.
+
 ### License And Citation
 
-**[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**. Use it, share it and adapt it, commercially or not, and credit **Montessori School Finder** and **Montessori Theory** with links to **[montessorischoolfinder.com](https://www.montessorischoolfinder.com/)** and **[montessori-theory.com](https://www.montessori-theory.com/)**, along with the original sources below. Scripts are under the MIT License.
+**[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**. Use it, share it and adapt it, commercially or not, and credit **Montessori School Finder** with a link to **[montessorischoolfinder.com](https://www.montessorischoolfinder.com/)**, along with the original sources below. Scripts are under the MIT License.
 
 ```bibtex
 @misc{msf_us_montessori_school_density_2026,
   title  = {US Montessori School Density by State and County, 2023-24},
-  author = {Carter, Sophia and {Montessori School Finder} and {Montessori Theory}},
+  author = {{Montessori School Finder}},
   year   = {2026},
   url    = {https://github.com/montessoritheory/us-montessori-school-density},
   note   = {Dataset, version 1.0, built from the NCES Private School Universe Survey and Census Bureau Population Estimates}
@@ -186,7 +194,7 @@ Ce jeu de données rapporte le nombre d'écoles Montessori privées au nombre d'
 - Le taux par comté n'est publié que pour les comtés ayant au moins 5 000 enfants de moins de 5 ans.
 - Les écoles Montessori publiques ne sont pas incluses, et l'enquête ne couvre que les écoles qui accueillent à partir de la maternelle (kindergarten). Les programmes réservés aux bébés et aux tout-petits sont donc sous-comptés.
 
-Licence CC BY 4.0, en citant **Montessori School Finder** et **Montessori Theory** avec un lien vers [montessorischoolfinder.com](https://www.montessorischoolfinder.com/) et [montessori-theory.com](https://www.montessori-theory.com/), ainsi que les sources NCES et Census Bureau.
+Licence CC BY 4.0, en citant **Montessori School Finder** avec un lien vers [montessorischoolfinder.com](https://www.montessorischoolfinder.com/), ainsi que les sources NCES et Census Bureau.
 
 ## Resumen En Español
 
@@ -200,8 +208,8 @@ Este conjunto de datos divide el número de escuelas Montessori privadas entre e
 - La tasa por condado solo se publica en los condados con al menos 5.000 niños menores de 5 años.
 - No incluye escuelas Montessori públicas, y la encuesta solo cubre escuelas que ofrecen desde kindergarten, así que los programas solo para bebés y niños pequeños quedan subcontados.
 
-Licencia CC BY 4.0, citando a **Montessori School Finder** y **Montessori Theory** con enlaces a [montessorischoolfinder.com](https://www.montessorischoolfinder.com/) y [montessori-theory.com](https://www.montessori-theory.com/), y las fuentes NCES y Census Bureau.
+Licencia CC BY 4.0, citando a **Montessori School Finder** con un enlace a [montessorischoolfinder.com](https://www.montessorischoolfinder.com/), y las fuentes NCES y Census Bureau.
 
 ---
 
-**Part of the Montessori School Finder open datasets**, documented data on Montessori schools worldwide, by [Montessori School Finder](https://www.montessorischoolfinder.com/) and [Montessori Theory](https://www.montessori-theory.com/).
+**Part of the [Montessori School Finder open datasets](https://github.com/montessoritheory/montessori-schools-open-data).** Directory at [montessorischoolfinder.com](https://www.montessorischoolfinder.com/).
