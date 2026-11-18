@@ -1,5 +1,7 @@
 # US Montessori School Density by State and County, 2023-24
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24328203.svg)](https://doi.org/10.5281/zenodo.24328203)
+
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![Data: NCES PSS](https://img.shields.io/badge/Schools-NCES_PSS_2023--24-2563eb)](https://nces.ed.gov/surveys/pss/) [![Data: Census Bureau](https://img.shields.io/badge/Children-Census_Bureau_Vintage_2023-059669)](https://www.census.gov/programs-surveys/popest.html)
 
 ![US Montessori School Density, 2023-24](images/cover.png)
@@ -165,6 +167,8 @@ The code in `scripts/` rebuilds everything from the two inputs.
 State outlines in the density map come from the Albers state file in `scripts/`. Charts by Montessori School Finder.
 
 ### License And Citation
+
+Archived on Zenodo with DOI [10.5281/zenodo.24328203](https://doi.org/10.5281/zenodo.24328203).
 
 **[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)**. Use it, share it and adapt it, commercially or not, and credit **Montessori School Finder** with a link to **[montessorischoolfinder.com](https://www.montessorischoolfinder.com/)**, along with the original sources below. Scripts are under the MIT License.
 
