@@ -1,0 +1,571 @@
+county_fips,county_name,state,state_name,montessori_schools,children_under_5,rate_shown,schools_per_10k_under5,rank_among_rated,total_population
+51003,Albemarle County,VA,Virginia,5,5520,True,9.06,1,115676
+06055,Napa County,CA,California,4,5920,True,6.76,2,133216
+30031,Gallatin County,MT,Montana,4,5988,True,6.68,3,126409
+08013,Boulder County,CO,Colorado,8,12300,True,6.5,4,326831
+13113,Fayette County,GA,Georgia,3,5200,True,5.77,5,123351
+34027,Morris County,NJ,New Jersey,14,26048,True,5.37,6,514423
+51107,Loudoun County,VA,Virginia,14,26291,True,5.33,7,436347
+35049,Santa Fe County,NM,New Mexico,3,5693,True,5.27,8,155956
+51013,Arlington County,VA,Virginia,6,11388,True,5.27,9,234162
+51059,Fairfax County,VA,Virginia,34,64754,True,5.25,10,1141878
+24027,Howard County,MD,Maryland,9,17535,True,5.13,11,336001
+53035,Kitsap County,WA,Washington,7,14025,True,4.99,12,277658
+53073,Whatcom County,WA,Washington,5,10141,True,4.93,13,231919
+06017,El Dorado County,CA,California,4,8351,True,4.79,14,192215
+34035,Somerset County,NJ,New Jersey,8,16895,True,4.74,15,348842
+24031,Montgomery County,MD,Maryland,28,59375,True,4.72,16,1058474
+41051,Multnomah County,OR,Oregon,16,35214,True,4.54,17,789698
+02090,Fairbanks North Star Borough,AK,Alaska,3,6663,True,4.5,18,94840
+53057,Skagit County,WA,Washington,3,6851,True,4.38,19,131417
+33013,Merrimack County,NH,New Hampshire,3,6877,True,4.36,20,157103
+42091,Montgomery County,PA,Pennsylvania,19,44814,True,4.24,21,868742
+35043,Sandoval County,NM,New Mexico,3,7226,True,4.15,22,155936
+17097,Lake County,IL,Illinois,15,36554,True,4.1,23,708760
+27145,Stearns County,MN,Minnesota,4,10030,True,3.99,24,160977
+17043,DuPage County,IL,Illinois,20,50335,True,3.97,25,921213
+06059,Orange County,CA,California,62,157073,True,3.95,26,3135755
+18005,Bartholomew County,IN,Indiana,2,5284,True,3.79,27,84003
+30063,Missoula County,MT,Montana,2,5378,True,3.72,28,121849
+42051,Fayette County,PA,Pennsylvania,2,5482,True,3.65,29,123915
+06001,Alameda County,CA,California,30,82731,True,3.63,30,1622188
+06041,Marin County,CA,California,4,11086,True,3.61,31,254407
+53033,King County,WA,Washington,41,114439,True,3.58,32,2271380
+48085,Collin County,TX,Texas,24,68206,True,3.52,33,1195359
+16001,Ada County,ID,Idaho,9,25984,True,3.46,34,524673
+34019,Hunterdon County,NJ,New Jersey,2,5833,True,3.43,35,130183
+30029,Flathead County,MT,Montana,2,5979,True,3.35,36,113679
+06079,San Luis Obispo County,CA,California,4,12152,True,3.29,37,281639
+01117,Shelby County,AL,Alabama,4,12230,True,3.27,38,233000
+13059,Clarke County,GA,Georgia,2,6144,True,3.26,39,129933
+06023,Humboldt County,CA,California,2,6198,True,3.23,40,133985
+30111,Yellowstone County,MT,Montana,3,9352,True,3.21,41,170843
+53015,Cowlitz County,WA,Washington,2,6269,True,3.19,42,112864
+29165,Platte County,MO,Missouri,2,6298,True,3.18,43,111940
+48157,Fort Bend County,TX,Texas,17,53674,True,3.17,44,916778
+26161,Washtenaw County,MI,Michigan,5,16166,True,3.09,45,365536
+39173,Wood County,OH,Ohio,2,6494,True,3.08,46,132650
+19113,Linn County,IA,Iowa,4,13107,True,3.05,47,228972
+37063,Durham County,NC,North Carolina,6,19786,True,3.03,48,336892
+12001,Alachua County,FL,Florida,4,13197,True,3.03,49,285994
+47187,Williamson County,TN,Tennessee,4,13412,True,2.98,50,264460
+39061,Hamilton County,OH,Ohio,15,50810,True,2.95,51,827058
+46103,Pennington County,SD,South Dakota,2,6831,True,2.93,52,115903
+12009,Brevard County,FL,Florida,8,27713,True,2.89,53,643979
+48453,Travis County,TX,Texas,21,73426,True,2.86,54,1334961
+21067,Fayette County,KY,Kentucky,5,17815,True,2.81,55,320154
+21117,Kenton County,KY,Kentucky,3,10704,True,2.8,56,171321
+26065,Ingham County,MI,Michigan,4,14321,True,2.79,57,284637
+12127,Volusia County,FL,Florida,7,25881,True,2.7,58,590357
+26125,Oakland County,MI,Michigan,17,64421,True,2.64,59,1270426
+25001,Barnstable County,MA,Massachusetts,2,7678,True,2.6,60,231735
+47093,Knox County,TN,Tennessee,7,27114,True,2.58,61,500669
+41039,Lane County,OR,Oregon,4,15612,True,2.56,62,381181
+47165,Sumner County,TN,Tennessee,3,11722,True,2.56,63,207994
+37191,Wayne County,NC,North Carolina,2,7820,True,2.56,64,118686
+06085,Santa Clara County,CA,California,24,93898,True,2.56,65,1877592
+45019,Charleston County,SC,South Carolina,6,23563,True,2.55,66,424367
+12069,Lake County,FL,Florida,5,19718,True,2.54,67,424462
+36111,Ulster County,NY,New York,2,7916,True,2.53,68,182333
+48209,Hays County,TX,Texas,4,16031,True,2.5,69,280486
+34003,Bergen County,NJ,New Jersey,12,48381,True,2.48,70,957736
+37021,Buncombe County,NC,North Carolina,3,12155,True,2.47,71,275901
+27123,Ramsey County,MN,Minnesota,8,32424,True,2.47,72,536075
+25021,Norfolk County,MA,Massachusetts,9,36884,True,2.44,73,727473
+17197,Will County,IL,Illinois,9,37666,True,2.39,74,700728
+34021,Mercer County,NJ,New Jersey,5,21071,True,2.37,75,381671
+33011,Hillsborough County,NH,New Hampshire,5,21219,True,2.36,76,427354
+18057,Hamilton County,IN,Indiana,5,21381,True,2.34,77,371645
+54039,Kanawha County,WV,West Virginia,2,8561,True,2.34,78,174805
+42017,Bucks County,PA,Pennsylvania,7,30131,True,2.32,79,645984
+39057,Greene County,OH,Ohio,2,8630,True,2.32,80,169691
+45063,Lexington County,SC,South Carolina,4,17354,True,2.3,81,309528
+55059,Kenosha County,WI,Wisconsin,2,8724,True,2.29,82,167488
+13121,Fulton County,GA,Georgia,13,56765,True,2.29,83,1079105
+12011,Broward County,FL,Florida,24,104833,True,2.29,84,1962531
+39113,Montgomery County,OH,Ohio,7,30698,True,2.28,85,533796
+41067,Washington County,OR,Oregon,7,30801,True,2.27,86,598865
+18127,Porter County,IN,Indiana,2,8804,True,2.27,87,175335
+53005,Benton County,WA,Washington,3,13374,True,2.24,88,215219
+34023,Middlesex County,NJ,New Jersey,10,44932,True,2.23,89,863623
+45013,Beaufort County,SC,South Carolina,2,9077,True,2.2,90,198979
+39165,Warren County,OH,Ohio,3,13726,True,2.19,91,252148
+27137,St. Louis County,MN,Minnesota,2,9210,True,2.17,92,200514
+16019,Bonneville County,ID,Idaho,2,9330,True,2.14,93,131366
+24025,Harford County,MD,Maryland,3,14054,True,2.13,94,264644
+12117,Seminole County,FL,Florida,5,23838,True,2.1,95,484271
+36001,Albany County,NY,New York,3,14403,True,2.08,96,316659
+24013,Carroll County,MD,Maryland,2,9681,True,2.07,97,176639
+33015,Rockingham County,NH,New Hampshire,3,14522,True,2.07,98,320689
+18039,Elkhart County,IN,Indiana,3,14552,True,2.06,99,206409
+51710,Norfolk city,VA,Virginia,3,14598,True,2.06,100,230930
+29019,Boone County,MO,Missouri,2,9837,True,2.03,101,189463
+18157,Tippecanoe County,IN,Indiana,2,9989,True,2.0,102,188792
+01101,Montgomery County,AL,Alabama,3,14986,True,2.0,103,224980
+37001,Alamance County,NC,North Carolina,2,9994,True,2.0,104,179165
+13021,Bibb County,GA,Georgia,2,10056,True,1.99,105,156512
+25017,Middlesex County,MA,Massachusetts,16,80983,True,1.98,106,1623952
+36069,Ontario County,NY,New York,1,5068,True,1.97,107,112494
+06013,Contra Costa County,CA,California,12,60852,True,1.97,108,1155025
+51680,Lynchburg city,VA,Virginia,1,5082,True,1.97,109,79535
+24009,Calvert County,MD,Maryland,1,5087,True,1.97,110,94728
+55009,Brown County,WI,Wisconsin,3,15279,True,1.96,111,271417
+51550,Chesapeake city,VA,Virginia,3,15294,True,1.96,112,253886
+17031,Cook County,IL,Illinois,52,265611,True,1.96,113,5087072
+51069,Frederick County,VA,Virginia,1,5121,True,1.95,114,95994
+12115,Sarasota County,FL,Florida,3,15376,True,1.95,115,469013
+06081,San Mateo County,CA,California,7,36228,True,1.93,116,726353
+41019,Douglas County,OR,Oregon,1,5178,True,1.93,117,112435
+29510,St. Louis city,MO,Missouri,3,15649,True,1.92,118,281754
+20045,Douglas County,KS,Kansas,1,5217,True,1.92,119,120553
+48491,Williamson County,TX,Texas,8,41800,True,1.91,120,697191
+08059,Jefferson County,CO,Colorado,5,26211,True,1.91,121,576366
+48187,Guadalupe County,TX,Texas,2,10511,True,1.9,122,188454
+22103,St. Tammany Parish,LA,Louisiana,3,15800,True,1.9,123,275583
+41029,Jackson County,OR,Oregon,2,10694,True,1.87,124,220768
+41071,Yamhill County,OR,Oregon,1,5361,True,1.87,125,108644
+37129,New Hanover County,NC,North Carolina,2,10761,True,1.86,126,238852
+06075,San Francisco County,CA,California,6,32341,True,1.86,127,808988
+08031,Denver County,CO,Colorado,7,37740,True,1.85,128,716577
+55087,Outagamie County,WI,Wisconsin,2,10858,True,1.84,129,193234
+16005,Bannock County,ID,Idaho,1,5442,True,1.84,130,90400
+42069,Lackawanna County,PA,Pennsylvania,2,10937,True,1.83,131,216123
+29183,St. Charles County,MO,Missouri,4,22029,True,1.82,132,416659
+18141,St. Joseph County,IN,Indiana,3,16532,True,1.81,133,272848
+27053,Hennepin County,MN,Minnesota,13,72037,True,1.8,134,1258713
+09190,Western Connecticut Planning Region,CT,Connecticut,6,33265,True,1.8,135,623907
+55101,Racine County,WI,Wisconsin,2,11090,True,1.8,136,196613
+42027,Centre County,PA,Pennsylvania,1,5552,True,1.8,137,157795
+55063,La Crosse County,WI,Wisconsin,1,5574,True,1.79,138,120486
+06087,Santa Cruz County,CA,California,2,11201,True,1.79,139,261547
+17143,Peoria County,IL,Illinois,2,11205,True,1.78,140,177513
+18105,Monroe County,IN,Indiana,1,5603,True,1.78,141,139342
+56021,Laramie County,WY,Wyoming,1,5625,True,1.78,142,100984
+55025,Dane County,WI,Wisconsin,5,28205,True,1.77,143,575347
+39157,Tuscarawas County,OH,Ohio,1,5677,True,1.76,144,91874
+13115,Floyd County,GA,Georgia,1,5702,True,1.75,145,100113
+22097,St. Landry Parish,LA,Louisiana,1,5713,True,1.75,146,81464
+19061,Dubuque County,IA,Iowa,1,5768,True,1.73,147,98887
+39025,Clermont County,OH,Ohio,2,11540,True,1.73,148,211972
+45079,Richland County,SC,South Carolina,4,23131,True,1.73,149,425138
+42013,Blair County,PA,Pennsylvania,1,5827,True,1.72,150,120273
+23011,Kennebec County,ME,Maine,1,5840,True,1.71,151,127259
+45007,Anderson County,SC,South Carolina,2,11684,True,1.71,152,213076
+49057,Weber County,UT,Utah,3,17699,True,1.7,153,271926
+53063,Spokane County,WA,Washington,5,29862,True,1.67,154,551455
+17115,Macon County,IL,Illinois,1,5980,True,1.67,155,100591
+39099,Mahoning County,OH,Ohio,2,11998,True,1.67,156,225596
+12086,Miami-Dade County,FL,Florida,24,144066,True,1.67,157,2686867
+42021,Cambria County,PA,Pennsylvania,1,6007,True,1.66,158,130668
+34017,Hudson County,NJ,New Jersey,7,42166,True,1.66,159,705472
+47011,Bradley County,TN,Tennessee,1,6040,True,1.66,160,111579
+37135,Orange County,NC,North Carolina,1,6049,True,1.65,161,150626
+39109,Miami County,OH,Ohio,1,6119,True,1.63,162,110876
+05119,Pulaski County,AR,Arkansas,4,24629,True,1.62,163,400009
+51770,Roanoke city,VA,Virginia,1,6169,True,1.62,164,97171
+12033,Escambia County,FL,Florida,3,18541,True,1.62,165,326928
+04003,Cochise County,AZ,Arizona,1,6194,True,1.61,166,124640
+25027,Worcester County,MA,Massachusetts,7,44172,True,1.58,167,866866
+12085,Martin County,FL,Florida,1,6378,True,1.57,168,163315
+35001,Bernalillo County,NM,New Mexico,5,31964,True,1.56,169,671586
+11001,District of Columbia,DC,District of Columbia,6,38586,True,1.55,170,678972
+21059,Daviess County,KY,Kentucky,1,6437,True,1.55,171,103458
+51153,Prince William County,VA,Virginia,5,32335,True,1.55,172,489640
+27141,Sherburne County,MN,Minnesota,1,6474,True,1.54,173,102206
+17119,Madison County,IL,Illinois,2,12966,True,1.54,174,262752
+34025,Monmouth County,NJ,New Jersey,5,32447,True,1.54,175,642799
+27019,Carver County,MN,Minnesota,1,6499,True,1.54,176,111057
+22071,Orleans Parish,LA,Louisiana,3,19509,True,1.54,177,364136
+47037,Davidson County,TN,Tennessee,7,45660,True,1.53,178,712334
+41005,Clackamas County,OR,Oregon,3,19691,True,1.52,179,423173
+23019,Penobscot County,ME,Maine,1,6570,True,1.52,180,155312
+12091,Okaloosa County,FL,Florida,2,13235,True,1.51,181,218464
+12057,Hillsborough County,FL,Florida,13,86435,True,1.5,182,1535564
+42107,Schuylkill County,PA,Pennsylvania,1,6659,True,1.5,183,143786
+42003,Allegheny County,PA,Pennsylvania,9,60149,True,1.5,184,1224825
+48041,Brazos County,TX,Texas,2,13372,True,1.5,185,244703
+51760,Richmond city,VA,Virginia,2,13380,True,1.49,186,229247
+39151,Stark County,OH,Ohio,3,20081,True,1.49,187,372716
+36027,Dutchess County,NY,New York,2,13487,True,1.48,188,297150
+35045,San Juan County,NM,New Mexico,1,6744,True,1.48,189,120675
+29189,St. Louis County,MO,Missouri,8,54089,True,1.48,190,987059
+55133,Waukesha County,WI,Wisconsin,3,20351,True,1.47,191,412591
+13015,Bartow County,GA,Georgia,1,6835,True,1.46,192,115041
+06073,San Diego County,CA,California,26,179031,True,1.45,193,3269973
+40027,Cleveland County,OK,Oklahoma,2,13873,True,1.44,194,301193
+34039,Union County,NJ,New Jersey,5,34707,True,1.44,195,572726
+42041,Cumberland County,PA,Pennsylvania,2,13883,True,1.44,196,270738
+26077,Kalamazoo County,MI,Michigan,2,13894,True,1.44,197,262215
+24037,St. Mary's County,MD,Maryland,1,7034,True,1.42,198,115281
+13217,Newton County,GA,Georgia,1,7053,True,1.42,199,120135
+09170,South Central Connecticut Planning Region,CT,Connecticut,4,28236,True,1.42,200,568158
+39169,Wayne County,OH,Ohio,1,7063,True,1.42,201,116510
+09130,Lower Connecticut River Valley Planning Region,CT,Connecticut,1,7088,True,1.41,202,176215
+50007,Chittenden County,VT,Vermont,1,7111,True,1.41,203,169481
+20091,Johnson County,KS,Kansas,5,35766,True,1.4,204,622237
+13117,Forsyth County,GA,Georgia,2,14314,True,1.4,205,272887
+23005,Cumberland County,ME,Maine,2,14353,True,1.39,206,310230
+34037,Sussex County,NJ,New Jersey,1,7180,True,1.39,207,146132
+48355,Nueces County,TX,Texas,3,21586,True,1.39,208,352289
+06111,Ventura County,CA,California,6,43229,True,1.39,209,829590
+48121,Denton County,TX,Texas,8,57654,True,1.39,210,1007703
+25009,Essex County,MA,Massachusetts,6,43243,True,1.39,211,810089
+06037,Los Angeles County,CA,California,66,475877,True,1.39,212,9663345
+12103,Pinellas County,FL,Florida,5,36396,True,1.37,213,961596
+13151,Henry County,GA,Georgia,2,14564,True,1.37,214,254613
+48113,Dallas County,TX,Texas,24,175055,True,1.37,215,2606358
+27003,Anoka County,MN,Minnesota,3,21900,True,1.37,216,372441
+42029,Chester County,PA,Pennsylvania,4,29276,True,1.37,217,549784
+41043,Linn County,OR,Oregon,1,7326,True,1.37,218,131496
+42089,Monroe County,PA,Pennsylvania,1,7395,True,1.35,219,166053
+48061,Cameron County,TX,Texas,4,29717,True,1.35,220,426710
+26115,Monroe County,MI,Michigan,1,7463,True,1.34,221,155045
+06097,Sonoma County,CA,California,3,22428,True,1.34,222,481812
+55073,Marathon County,WI,Wisconsin,1,7547,True,1.33,223,138612
+05031,Craighead County,AR,Arkansas,1,7571,True,1.32,224,113993
+44003,Kent County,RI,Rhode Island,1,7623,True,1.31,225,171278
+36083,Rensselaer County,NY,New York,1,7645,True,1.31,226,159305
+39023,Clark County,OH,Ohio,1,7717,True,1.3,227,134610
+27163,Washington County,MN,Minnesota,2,15477,True,1.29,228,278936
+13045,Carroll County,GA,Georgia,1,7798,True,1.28,229,127098
+48397,Rockwall County,TX,Texas,1,7887,True,1.27,230,131307
+24005,Baltimore County,MD,Maryland,6,47692,True,1.26,231,844703
+34031,Passaic County,NJ,New Jersey,4,31952,True,1.25,232,513395
+45041,Florence County,SC,South Carolina,1,8007,True,1.25,233,137214
+26021,Berrien County,MI,Michigan,1,8008,True,1.25,234,152261
+34005,Burlington County,NJ,New Jersey,3,24063,True,1.25,235,469167
+49035,Salt Lake County,UT,Utah,9,72635,True,1.24,236,1185813
+17161,Rock Island County,IL,Illinois,1,8079,True,1.24,237,141236
+22079,Rapides Parish,LA,Louisiana,1,8091,True,1.24,238,126260
+42045,Delaware County,PA,Pennsylvania,4,32384,True,1.24,239,576720
+05131,Sebastian County,AR,Arkansas,1,8102,True,1.23,240,129098
+39035,Cuyahoga County,OH,Ohio,8,65131,True,1.23,241,1233088
+17111,McHenry County,IL,Illinois,2,16296,True,1.23,242,312800
+19103,Johnson County,IA,Iowa,1,8161,True,1.23,243,157528
+09110,Capitol Planning Region,CT,Connecticut,6,49031,True,1.22,244,975328
+28059,Jackson County,MS,Mississippi,1,8189,True,1.22,245,146389
+42043,Dauphin County,PA,Pennsylvania,2,16464,True,1.21,246,289234
+45045,Greenville County,SC,South Carolina,4,33059,True,1.21,247,558036
+48039,Brazoria County,TX,Texas,3,24868,True,1.21,248,398938
+48201,Harris County,TX,Texas,39,323835,True,1.2,249,4835125
+26075,Jackson County,MI,Michigan,1,8329,True,1.2,250,159424
+24043,Washington County,MD,Maryland,1,8336,True,1.2,251,155813
+37159,Rowan County,NC,North Carolina,1,8361,True,1.2,252,151661
+24510,Baltimore city,MD,Maryland,4,33681,True,1.19,253,565239
+04013,Maricopa County,AZ,Arizona,30,252940,True,1.19,254,4585871
+37133,Onslow County,NC,North Carolina,2,16915,True,1.18,255,213676
+37183,Wake County,NC,North Carolina,8,67714,True,1.18,256,1190275
+13077,Coweta County,GA,Georgia,1,8583,True,1.17,257,155892
+13067,Cobb County,GA,Georgia,5,43111,True,1.16,258,776743
+34013,Essex County,NJ,New Jersey,6,51740,True,1.16,259,851117
+42055,Franklin County,PA,Pennsylvania,1,8631,True,1.16,260,157854
+51810,Virginia Beach city,VA,Virginia,3,25943,True,1.16,261,453649
+37035,Catawba County,NC,North Carolina,1,8656,True,1.16,262,164645
+15009,Maui County,HI,Hawaii,1,8676,True,1.15,263,164183
+24021,Frederick County,MD,Maryland,2,17384,True,1.15,264,293391
+27037,Dakota County,MN,Minnesota,3,26317,True,1.14,265,447440
+09120,Greater Bridgeport Planning Region,CT,Connecticut,2,17669,True,1.13,266,327651
+06083,Santa Barbara County,CA,California,3,26586,True,1.13,267,441257
+48381,Randall County,TX,Texas,1,8875,True,1.13,268,148255
+48339,Montgomery County,TX,Texas,5,44855,True,1.11,269,711354
+55105,Rock County,WI,Wisconsin,1,9031,True,1.11,270,164278
+47125,Montgomery County,TN,Tennessee,2,18095,True,1.11,271,239872
+22033,East Baton Rouge Parish,LA,Louisiana,3,27219,True,1.1,272,448467
+15003,Honolulu County,HI,Hawaii,6,54496,True,1.1,273,989408
+25023,Plymouth County,MA,Massachusetts,3,27386,True,1.1,274,535308
+36093,Schenectady County,NY,New York,1,9156,True,1.09,275,159902
+12053,Hernando County,FL,Florida,1,9164,True,1.09,276,212807
+48181,Grayson County,TX,Texas,1,9186,True,1.09,277,146907
+42019,Butler County,PA,Pennsylvania,1,9235,True,1.08,278,198413
+31109,Lancaster County,NE,Nebraska,2,18580,True,1.08,279,326716
+26093,Livingston County,MI,Michigan,1,9303,True,1.07,280,196757
+51087,Henrico County,VA,Virginia,2,18673,True,1.07,281,334760
+12099,Palm Beach County,FL,Florida,8,74740,True,1.07,282,1533801
+39045,Fairfield County,OH,Ohio,1,9350,True,1.07,283,165360
+23031,York County,ME,Maine,1,9364,True,1.07,284,218586
+06089,Shasta County,CA,California,1,9380,True,1.07,285,180366
+22105,Tangipahoa Parish,LA,Louisiana,1,9461,True,1.06,286,138064
+12081,Manatee County,FL,Florida,2,18988,True,1.05,287,441095
+12083,Marion County,FL,Florida,2,19007,True,1.05,288,409959
+18089,Lake County,IN,Indiana,3,28618,True,1.05,289,500598
+13089,DeKalb County,GA,Georgia,5,48179,True,1.04,290,762992
+41017,Deschutes County,OR,Oregon,1,9644,True,1.04,291,208513
+17089,Kane County,IL,Illinois,3,28939,True,1.04,292,514982
+36055,Monroe County,NY,New York,4,38606,True,1.04,293,748482
+18081,Johnson County,IN,Indiana,1,9730,True,1.03,294,167819
+51510,Alexandria city,VA,Virginia,1,9760,True,1.02,295,155230
+13135,Gwinnett County,GA,Georgia,6,58695,True,1.02,296,983526
+16055,Kootenai County,ID,Idaho,1,9800,True,1.02,297,185010
+19163,Scott County,IA,Iowa,1,9854,True,1.01,298,174270
+37147,Pitt County,NC,North Carolina,1,9875,True,1.01,299,175119
+48303,Lubbock County,TX,Texas,2,19829,True,1.01,300,320940
+06113,Yolo County,CA,California,1,9976,True,1.0,301,220544
+27109,Olmsted County,MN,Minnesota,1,10048,True,1.0,302,164784
+05007,Benton County,AR,Arkansas,2,20293,True,0.99,303,311013
+39089,Licking County,OH,Ohio,1,10183,True,0.98,304,183201
+06067,Sacramento County,CA,California,9,91813,True,0.98,305,1584288
+42125,Washington County,PA,Pennsylvania,1,10213,True,0.98,306,210232
+12095,Orange County,FL,Florida,8,81825,True,0.98,307,1471416
+17019,Champaign County,IL,Illinois,1,10298,True,0.97,308,205644
+36061,New York County,NY,New York,6,61900,True,0.97,309,1597451
+18163,Vanderburgh County,IN,Indiana,1,10379,True,0.96,310,179810
+10003,New Castle County,DE,Delaware,3,31340,True,0.96,311,578592
+42077,Lehigh County,PA,Pennsylvania,2,21030,True,0.95,312,377754
+15001,Hawaii County,HI,Hawaii,1,10597,True,0.94,313,207615
+28033,DeSoto County,MS,Mississippi,1,10666,True,0.94,314,193247
+37097,Iredell County,NC,North Carolina,1,10674,True,0.94,315,199710
+29095,Jackson County,MO,Missouri,4,42895,True,0.93,316,718560
+39085,Lake County,OH,Ohio,1,10749,True,0.93,317,231640
+36091,Saratoga County,NY,New York,1,10897,True,0.92,318,238711
+40143,Tulsa County,OK,Oklahoma,4,43866,True,0.91,319,682868
+08001,Adams County,CO,Colorado,3,33211,True,0.9,320,533365
+18097,Marion County,IN,Indiana,6,66489,True,0.9,321,968460
+39017,Butler County,OH,Ohio,2,22207,True,0.9,322,393043
+26099,Macomb County,MI,Michigan,4,44767,True,0.89,323,875101
+37067,Forsyth County,NC,North Carolina,2,22401,True,0.89,324,392921
+47149,Rutherford County,TN,Tennessee,2,22511,True,0.89,325,367101
+06071,San Bernardino County,CA,California,12,135401,True,0.89,326,2195611
+01089,Madison County,AL,Alabama,2,22855,True,0.88,327,412600
+38017,Cass County,ND,North Dakota,1,12115,True,0.83,328,196362
+10005,Sussex County,DE,Delaware,1,12251,True,0.82,329,263509
+37119,Mecklenburg County,NC,North Carolina,6,73686,True,0.81,330,1163701
+53061,Snohomish County,WA,Washington,4,49479,True,0.81,331,844761
+51700,Newport News city,VA,Virginia,1,12372,True,0.81,332,183118
+36065,Oneida County,NY,New York,1,12426,True,0.8,333,227555
+39095,Lucas County,OH,Ohio,2,24924,True,0.8,334,425484
+01125,Tuscaloosa County,AL,Alabama,1,12478,True,0.8,335,237373
+49011,Davis County,UT,Utah,2,25026,True,0.8,336,373207
+36067,Onondaga County,NY,New York,2,25049,True,0.8,337,467873
+01097,Mobile County,AL,Alabama,2,25547,True,0.78,338,411640
+39041,Delaware County,OH,Ohio,1,12810,True,0.78,339,231636
+32031,Washoe County,NV,Nevada,2,25663,True,0.78,340,498022
+42101,Philadelphia County,PA,Pennsylvania,7,90532,True,0.77,341,1550542
+13245,Richmond County,GA,Georgia,1,12942,True,0.77,342,205414
+36119,Westchester County,NY,New York,4,51860,True,0.77,343,990817
+31055,Douglas County,NE,Nebraska,3,39198,True,0.77,344,589540
+09180,Southeastern Connecticut Planning Region,CT,Connecticut,1,13141,True,0.76,345,279634
+18003,Allen County,IN,Indiana,2,26391,True,0.76,346,394545
+22019,Calcasieu Parish,LA,Louisiana,1,13277,True,0.75,347,203761
+22017,Caddo Parish,LA,Louisiana,1,13482,True,0.74,348,226386
+42049,Erie County,PA,Pennsylvania,1,13618,True,0.73,349,267571
+53053,Pierce County,WA,Washington,4,54936,True,0.73,350,928696
+36071,Orange County,NY,New York,2,27655,True,0.72,351,407470
+48141,El Paso County,TX,Texas,4,55654,True,0.72,352,869880
+12109,St. Johns County,FL,Florida,1,14163,True,0.71,353,320110
+48135,Ector County,TX,Texas,1,14192,True,0.7,354,164494
+53011,Clark County,WA,Washington,2,28411,True,0.7,355,521150
+48139,Ellis County,TX,Texas,1,14372,True,0.7,356,222829
+37101,Johnston County,NC,North Carolina,1,14531,True,0.69,357,241955
+48329,Midland County,TX,Texas,1,14732,True,0.68,358,177108
+42129,Westmoreland County,PA,Pennsylvania,1,14879,True,0.67,359,351163
+08041,El Paso County,CO,Colorado,3,45004,True,0.67,360,744215
+48423,Smith County,TX,Texas,1,15134,True,0.66,361,245209
+48027,Bell County,TX,Texas,2,30378,True,0.66,362,393193
+29047,Clay County,MO,Missouri,1,15250,True,0.66,363,259772
+45015,Berkeley County,SC,South Carolina,1,15290,True,0.65,364,255217
+26163,Wayne County,MI,Michigan,7,107097,True,0.65,365,1751169
+12105,Polk County,FL,Florida,3,46018,True,0.65,366,818330
+53067,Thurston County,WA,Washington,1,15341,True,0.65,367,299003
+34015,Gloucester County,NJ,New Jersey,1,15481,True,0.65,368,308423
+34007,Camden County,NJ,New Jersey,2,31216,True,0.64,369,527196
+08069,Larimer County,CO,Colorado,1,15611,True,0.64,370,370771
+12031,Duval County,FL,Florida,4,63857,True,0.63,371,1030822
+36103,Suffolk County,NY,New York,5,80282,True,0.62,372,1523170
+19153,Polk County,IA,Iowa,2,32187,True,0.62,373,505255
+05143,Washington County,AR,Arkansas,1,16149,True,0.62,374,261549
+48245,Jefferson County,TX,Texas,1,16250,True,0.62,375,251496
+29077,Greene County,MO,Missouri,1,16298,True,0.61,376,304611
+20173,Sedgwick County,KS,Kansas,2,32779,True,0.61,377,528469
+12021,Collier County,FL,Florida,1,16599,True,0.6,378,404310
+17201,Winnebago County,IL,Illinois,1,16654,True,0.6,379,280922
+39093,Lorain County,OH,Ohio,1,16887,True,0.59,380,317910
+42079,Luzerne County,PA,Pennsylvania,1,16980,True,0.59,381,327388
+16027,Canyon County,ID,Idaho,1,17075,True,0.59,382,257674
+42071,Lancaster County,PA,Pennsylvania,2,34207,True,0.58,383,558589
+06107,Tulare County,CA,California,2,34207,True,0.58,383,479468
+48309,McLennan County,TX,Texas,1,17117,True,0.58,385,268583
+36047,Kings County,NY,New York,9,156284,True,0.58,386,2561225
+02020,Anchorage Municipality,AK,Alaska,1,17465,True,0.57,387,286075
+44007,Providence County,RI,Rhode Island,2,35024,True,0.57,388,660615
+06065,Riverside County,CA,California,8,142304,True,0.56,389,2492442
+53077,Yakima County,WA,Washington,1,17799,True,0.56,390,256643
+36059,Nassau County,NY,New York,4,72130,True,0.55,391,1381715
+40109,Oklahoma County,OK,Oklahoma,3,54191,True,0.55,392,808866
+25025,Suffolk County,MA,Massachusetts,2,36485,True,0.55,393,768425
+12111,St. Lucie County,FL,Florida,1,18546,True,0.54,394,373586
+55079,Milwaukee County,WI,Wisconsin,3,57405,True,0.52,395,916205
+41047,Marion County,OR,Oregon,1,19779,True,0.51,396,346741
+01073,Jefferson County,AL,Alabama,2,39571,True,0.51,397,662895
+49049,Utah County,UT,Utah,3,59903,True,0.5,398,719174
+47157,Shelby County,TN,Tennessee,3,61391,True,0.49,399,910042
+48167,Galveston County,TX,Texas,1,20512,True,0.49,400,361744
+08035,Douglas County,CO,Colorado,1,20539,True,0.49,401,383906
+06061,Placer County,CA,California,1,20713,True,0.48,402,423561
+45083,Spartanburg County,SC,South Carolina,1,21171,True,0.47,403,356698
+39049,Franklin County,OH,Ohio,4,84959,True,0.47,404,1326063
+32003,Clark County,NV,Nevada,6,128173,True,0.47,405,2336573
+48479,Webb County,TX,Texas,1,21405,True,0.47,406,269148
+48029,Bexar County,TX,Texas,6,132764,True,0.45,407,2087679
+47065,Hamilton County,TN,Tennessee,1,22154,True,0.45,408,379864
+51041,Chesterfield County,VA,Virginia,1,22292,True,0.45,409,383876
+48215,Hidalgo County,TX,Texas,3,68354,True,0.44,410,898471
+48439,Tarrant County,TX,Texas,6,138082,True,0.43,411,2182947
+21111,Jefferson County,KY,Kentucky,2,46635,True,0.43,412,772144
+42011,Berks County,PA,Pennsylvania,1,23405,True,0.43,413,432821
+25013,Hampden County,MA,Massachusetts,1,24041,True,0.42,414,460291
+08123,Weld County,CO,Colorado,1,24099,True,0.41,415,359442
+37051,Cumberland County,NC,North Carolina,1,24754,True,0.4,416,337890
+04019,Pima County,AZ,Arizona,2,50175,True,0.4,417,1063162
+06095,Solano County,CA,California,1,25105,True,0.4,418,449218
+22051,Jefferson Parish,LA,Louisiana,1,25621,True,0.39,419,421777
+06077,San Joaquin County,CA,California,2,51294,True,0.39,420,800965
+12097,Osceola County,FL,Florida,1,25807,True,0.39,421,437784
+06053,Monterey County,CA,California,1,27778,True,0.36,422,430723
+24033,Prince George's County,MD,Maryland,2,55754,True,0.36,423,947430
+39153,Summit County,OH,Ohio,1,27936,True,0.36,424,535733
+25005,Bristol County,MA,Massachusetts,1,28962,True,0.35,425,581841
+37081,Guilford County,NC,North Carolina,1,30093,True,0.33,426,549866
+12101,Pasco County,FL,Florida,1,30627,True,0.33,427,632996
+06029,Kern County,CA,California,2,63300,True,0.32,428,913820
+24003,Anne Arundel County,MD,Maryland,1,35243,True,0.28,429,594582
+08005,Arapahoe County,CO,Colorado,1,37197,True,0.27,430,656061
+12071,Lee County,FL,Florida,1,37257,True,0.27,431,834573
+36081,Queens County,NY,New York,3,115481,True,0.26,432,2252196
+26081,Kent County,MI,Michigan,1,40273,True,0.25,433,661354
+36029,Erie County,NY,New York,1,48886,True,0.2,434,946147
+33009,Grafton County,NH,New Hampshire,4,3408,False,,,93146
+36109,Tompkins County,NY,New York,3,3456,False,,,103558
+08067,La Plata County,CO,Colorado,3,2158,False,,,56407
+09160,Northwest Hills Planning Region,CT,Connecticut,3,4796,False,,,113463
+51061,Fauquier County,VA,Virginia,2,4213,False,,,75165
+08037,Eagle County,CO,Colorado,2,2480,False,,,54381
+51678,Lexington city,VA,Virginia,2,434,False,,,7528
+39075,Holmes County,OH,Ohio,2,3844,False,,,44386
+26055,Grand Traverse County,MI,Michigan,2,4489,False,,,96421
+25015,Hampshire County,MA,Massachusetts,2,4980,False,,,162502
+41003,Benton County,OR,Oregon,2,3288,False,,,97713
+36105,Sullivan County,NY,New York,2,4872,False,,,79920
+35028,Los Alamos County,NM,New Mexico,2,898,False,,,19444
+44009,Washington County,RI,Rhode Island,2,4502,False,,,129982
+19191,Winneshiek County,IA,Iowa,2,934,False,,,19815
+21037,Campbell County,KY,Kentucky,2,4970,False,,,93702
+21049,Clark County,KY,Kentucky,2,2168,False,,,37304
+48053,Burnet County,TX,Texas,2,2722,False,,,53991
+16039,Elmore County,ID,Idaho,2,2133,False,,,29724
+13285,Troup County,GA,Georgia,2,4548,False,,,70742
+12131,Walton County,FL,Florida,2,4671,False,,,86354
+30049,Lewis and Clark County,MT,Montana,2,3782,False,,,75011
+55089,Ozaukee County,WI,Wisconsin,2,4621,False,,,93460
+56025,Natrona County,WY,Wyoming,1,4411,False,,,79941
+05083,Logan County,AR,Arkansas,1,1248,False,,,21400
+06005,Amador County,CA,California,1,1732,False,,,41811
+06057,Nevada County,CA,California,1,4087,False,,,102037
+12129,Wakulla County,FL,Florida,1,1857,False,,,36449
+06105,Trinity County,CA,California,1,599,False,,,15670
+12087,Monroe County,FL,Florida,1,3386,False,,,80614
+12089,Nassau County,FL,Florida,1,4668,False,,,101501
+48259,Kendall County,TX,Texas,1,2384,False,,,50537
+48273,Kleberg County,TX,Texas,1,1915,False,,,30069
+48373,Polk County,TX,Texas,1,2734,False,,,54186
+37121,Mitchell County,NC,North Carolina,1,666,False,,,14999
+37141,Pender County,NC,North Carolina,1,3737,False,,,68521
+37171,Surry County,NC,North Carolina,1,3775,False,,,71462
+37175,Transylvania County,NC,North Carolina,1,1270,False,,,33549
+37055,Dare County,NC,North Carolina,1,1519,False,,,38110
+36011,Cayuga County,NY,New York,1,3478,False,,,74485
+36015,Chemung County,NY,New York,1,4196,False,,,81325
+36025,Delaware County,NY,New York,1,1743,False,,,44410
+36039,Greene County,NY,New York,1,2054,False,,,47062
+28091,Marion County,MS,Mississippi,1,1413,False,,,24224
+28149,Warren County,MS,Mississippi,1,2532,False,,,42298
+29031,Cape Girardeau County,MO,Missouri,1,4547,False,,,82984
+29107,Lafayette County,MO,Missouri,1,1873,False,,,33196
+29131,Miller County,MO,Missouri,1,1541,False,,,25590
+35017,Grant County,NM,New Mexico,1,1138,False,,,27472
+39063,Hancock County,OH,Ohio,1,4248,False,,,74704
+39149,Shelby County,OH,Ohio,1,3141,False,,,47765
+26073,Isabella County,MI,Michigan,1,2953,False,,,64118
+26117,Montcalm County,MI,Michigan,1,3472,False,,,68154
+24029,Kent County,MD,Maryland,1,740,False,,,19303
+25003,Berkshire County,MA,Massachusetts,1,4819,False,,,126818
+25007,Dukes County,MA,Massachusetts,1,907,False,,,20819
+25019,Nantucket County,MA,Massachusetts,1,820,False,,,14444
+37189,Watauga County,NC,North Carolina,1,1514,False,,,54748
+37199,Yancey County,NC,North Carolina,1,915,False,,,18938
+38059,Morton County,ND,North Dakota,1,2151,False,,,33895
+39037,Darke County,OH,Ohio,1,3029,False,,,51415
+39043,Erie County,OH,Ohio,1,3533,False,,,74035
+24001,Allegany County,MD,Maryland,1,3092,False,,,67273
+41053,Polk County,OR,Oregon,1,4494,False,,,89805
+23013,Knox County,ME,Maine,1,1536,False,,,40977
+23015,Lincoln County,ME,Maine,1,1346,False,,,36507
+23025,Somerset County,ME,Maine,1,2338,False,,,51302
+23027,Waldo County,ME,Maine,1,1740,False,,,40620
+21209,Scott County,KY,Kentucky,1,3653,False,,,60168
+21239,Woodford County,KY,Kentucky,1,1422,False,,,27268
+22061,Lincoln Parish,LA,Louisiana,1,2426,False,,,47962
+21073,Franklin County,KY,Kentucky,1,2668,False,,,51644
+21179,Nelson County,KY,Kentucky,1,2790,False,,,47730
+21017,Bourbon County,KY,Kentucky,1,1066,False,,,20134
+21021,Boyle County,KY,Kentucky,1,1556,False,,,30988
+44001,Bristol County,RI,Rhode Island,1,1825,False,,,50255
+18001,Adams County,IN,Indiana,1,3137,False,,,36288
+18059,Hancock County,IN,Indiana,1,4915,False,,,86166
+18113,Noble County,IN,Indiana,1,3059,False,,,47430
+18169,Wabash County,IN,Indiana,1,1589,False,,,30670
+42103,Pike County,PA,Pennsylvania,1,2381,False,,,61247
+42127,Wayne County,PA,Pennsylvania,1,2081,False,,,51262
+42025,Carbon County,PA,Pennsylvania,1,2996,False,,,65458
+42039,Crawford County,PA,Pennsylvania,1,4296,False,,,82001
+42063,Indiana County,PA,Pennsylvania,1,3795,False,,,83094
+48043,Brewster County,TX,Texas,1,431,False,,,9513
+48055,Caldwell County,TX,Texas,1,3104,False,,,49859
+48097,Cooke County,TX,Texas,1,2679,False,,,43782
+16013,Blaine County,ID,Idaho,1,944,False,,,25041
+16065,Madison County,ID,Idaho,1,3917,False,,,54547
+16069,Nez Perce County,ID,Idaho,1,2154,False,,,42987
+47077,Henderson County,TN,Tennessee,1,1520,False,,,28070
+48007,Aransas County,TX,Texas,1,1123,False,,,25374
+13123,Gilmer County,GA,Georgia,1,1538,False,,,32860
+13177,Lee County,GA,Georgia,1,1824,False,,,33872
+13299,Ware County,GA,Georgia,1,2336,False,,,36243
+45043,Georgetown County,SC,South Carolina,1,2518,False,,,65731
+45089,Williamsburg County,SC,South Carolina,1,1306,False,,,29891
+46013,Brown County,SD,South Dakota,1,2134,False,,,37733
+46083,Lincoln County,SD,South Dakota,1,4716,False,,,73238
+02110,Juneau City and Borough,AK,Alaska,1,1439,False,,,31555
+55093,Pierce County,WI,Wisconsin,1,2081,False,,,43026
+56013,Fremont County,WY,Wyoming,1,2307,False,,,39815
+06069,San Benito County,CA,California,1,4297,False,,,68175
+51131,Northampton County,VA,Virginia,1,521,False,,,12021
+51157,Rappahannock County,VA,Virginia,1,229,False,,,7414
+51600,Fairfax city,VA,Virginia,1,2538,False,,,25144
+50023,Washington County,VT,Vermont,1,2475,False,,,60142
+50025,Windham County,VT,Vermont,1,1737,False,,,45966
+51015,Augusta County,VA,Virginia,1,3016,False,,,78247
+51019,Bedford County,VA,Virginia,1,3581,False,,,81525
+51095,James City County,VA,Virginia,1,3968,False,,,82654
+51121,Montgomery County,VA,Virginia,1,3481,False,,,98666
+12035,Flagler County,FL,Florida,1,4705,False,,,131439
+48471,Walker County,TX,Texas,1,3266,False,,,81268
+49043,Summit County,UT,Utah,1,2056,False,,,42759
+49051,Wasatch County,UT,Utah,1,2051,False,,,37144
+50003,Bennington County,VT,Vermont,1,1541,False,,,37183
+27095,Mille Lacs County,MN,Minnesota,1,1529,False,,,27427
+27131,Rice County,MN,Minnesota,1,3600,False,,,67948
+28071,Lafayette County,MS,Mississippi,1,2817,False,,,58467
+30093,Silver Bow County,MT,Montana,1,1767,False,,,36360
+33005,Cheshire County,NH,New Hampshire,1,3466,False,,,77703
+33007,Coos County,NH,New Hampshire,1,1219,False,,,31372
+33019,Sullivan County,NH,New Hampshire,1,1814,False,,,43969
+34009,Cape May County,NJ,New Jersey,1,3945,False,,,94610
+27009,Benton County,MN,Minnesota,1,2500,False,,,41600
+53047,Okanogan County,WA,Washington,1,2325,False,,,43712
+53055,San Juan County,WA,Washington,1,554,False,,,18566
+54033,Harrison County,WV,West Virginia,1,3416,False,,,64639
+54055,Mercer County,WV,West Virginia,1,3075,False,,,58057
+54069,Ohio County,WV,West Virginia,1,1967,False,,,41194
+55043,Grant County,WI,Wisconsin,1,2852,False,,,51409
+51610,Falls Church city,VA,Virginia,1,790,False,,,14685
+51775,Salem city,VA,Virginia,1,1388,False,,,25600
+53039,Klickitat County,WA,Washington,1,1021,False,,,23589

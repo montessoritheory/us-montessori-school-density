@@ -1,0 +1,52 @@
+rank,state,state_name,state_fips,montessori_schools,children_under_5,schools_per_10k_under5,children_under_5_per_school,rank_by_count,prek_enrollment,ams_member,ami_member,total_population,population_vintage,msf_url
+1,NH,New Hampshire,33,18,62585,2.88,3477,29,665,11,1,1402054,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/new-hampshire/
+2,MT,Montana,30,14,57574,2.43,4112,32,569,7,1,1132812,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/montana/
+3,OR,Oregon,41,40,202332,1.98,5058,17,1657,11,14,4233358,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/oregon/
+4,VA,Virginia,51,96,485946,1.98,5062,5,4759,54,22,8715698,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/virginia/
+5,WA,Washington,53,81,421127,1.92,5199,7,4058,35,12,7812880,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/washington/
+6,MD,Maryland,24,62,349713,1.77,5641,10,3281,31,17,6180253,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/maryland/
+7,ID,Idaho,16,19,113383,1.68,5968,27,756,7,2,1964726,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/idaho/
+8,NJ,New Jersey,34,86,519070,1.66,6036,6,5244,57,11,9290841,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/new-jersey/
+9,IL,Illinois,17,109,664874,1.64,6100,4,5081,78,17,12549689,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/illinois/
+10,DC,District of Columbia,11,6,38586,1.55,6431,41,268,4,2,678972,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/district-of-columbia/
+11,MA,Massachusetts,25,52,343943,1.51,6614,12,2742,37,6,7001399,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/massachusetts/
+12,CA,California,06,309,2097790,1.47,6789,1,14179,102,68,38965193,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/california/
+13,VT,Vermont,50,4,27348,1.46,6837,47,82,2,0,647464,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/vermont/
+14,ME,Maine,23,9,61645,1.46,6849,36,384,8,0,1395722,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/maine/
+15,NM,New Mexico,35,15,107321,1.4,7155,31,629,6,4,2114371,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/new-mexico/
+16,FL,Florida,12,144,1124756,1.28,7811,3,6414,71,20,22610726,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/florida/
+17,CT,Connecticut,09,23,180673,1.27,7855,25,1114,15,5,3617176,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/connecticut/
+18,MN,Minnesota,27,41,328430,1.25,8010,16,2380,7,14,5737915,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/minnesota/
+19,PA,Pennsylvania,42,79,665907,1.19,8429,8,3121,50,6,12961683,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/pennsylvania/
+20,RI,Rhode Island,44,6,52210,1.15,8702,41,216,6,0,1095962,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/rhode-island/
+21,CO,Colorado,08,35,308959,1.13,8827,18,1646,23,2,5877610,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/colorado/
+22,AK,Alaska,02,5,45857,1.09,9171,43,196,3,2,733406,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/alaska/
+23,TX,Texas,48,208,1936893,1.07,9312,2,11616,89,37,30503301,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/texas/
+24,OH,Ohio,39,68,658693,1.03,9687,9,3157,36,8,11785935,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/ohio/
+25,HI,Hawaii,15,8,77650,1.03,9706,38,641,5,1,1435138,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/hawaii/
+26,WY,Wyoming,56,3,30785,0.97,10262,50,175,1,1,584057,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/wyoming/
+27,SC,South Carolina,45,27,291612,0.93,10800,23,1439,11,4,5373555,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/south-carolina/
+28,MI,Michigan,26,48,529962,0.91,11041,14,2335,24,12,10037261,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/michigan/
+29,WI,Wisconsin,55,27,310374,0.87,11495,23,1131,6,5,5910955,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/wisconsin/
+30,IN,Indiana,18,35,405723,0.86,11592,18,1766,18,4,6862199,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/indiana/
+31,AZ,Arizona,04,33,393531,0.84,11925,20,1738,8,10,7431344,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/arizona/
+32,UT,Utah,49,19,231295,0.82,12173,27,1562,3,3,3417734,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/utah/
+33,GA,Georgia,13,51,635832,0.8,12467,13,2039,16,14,11029227,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/georgia/
+34,MO,Missouri,29,28,351517,0.8,12554,22,1165,14,6,6196156,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/missouri/
+35,KY,Kentucky,21,21,263862,0.8,12565,26,693,13,3,4526154,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/kentucky/
+36,NC,North Carolina,37,48,606455,0.79,12634,14,2204,29,8,10835491,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/north-carolina/
+37,TN,Tennessee,47,31,411380,0.75,13270,21,1200,11,6,7126489,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/tennessee/
+38,DE,Delaware,10,4,54471,0.73,13618,47,262,3,1,1031890,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/delaware/
+39,SD,South Dakota,46,4,57935,0.69,14484,47,120,2,1,919318,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/south-dakota/
+40,IA,Iowa,19,11,186039,0.59,16913,34,516,8,3,3207004,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/iowa/
+41,NY,New York,36,61,1038816,0.59,17030,11,2266,36,11,19571216,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/new-york/
+42,LA,Louisiana,22,16,279427,0.57,17464,30,455,6,2,4573749,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/louisiana/
+43,WV,West Virginia,54,5,87399,0.57,17480,43,217,2,0,1770071,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/west-virginia/
+44,AR,Arkansas,05,10,180834,0.55,18083,35,751,5,1,3067732,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/arkansas/
+45,AL,Alabama,01,14,293105,0.48,20936,32,698,8,0,5108468,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/alabama/
+46,NV,Nevada,32,8,171440,0.47,21430,38,491,2,1,3194176,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/nevada/
+47,KS,Kansas,20,8,174988,0.46,21874,38,500,3,3,2940546,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/kansas/
+48,ND,North Dakota,38,2,49307,0.41,24654,51,136,1,1,783926,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/north-dakota/
+49,NE,Nebraska,31,5,123659,0.4,24732,43,194,3,1,1978379,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/nebraska/
+50,OK,Oklahoma,40,9,244277,0.37,27142,36,385,7,0,4053824,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/oklahoma/
+51,MS,Mississippi,28,5,173870,0.29,34774,43,76,1,0,2939690,"Vintage 2023, July 1, 2023",https://www.montessorischoolfinder.com/locations/united-states/mississippi/

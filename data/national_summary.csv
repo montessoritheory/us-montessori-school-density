@@ -1,0 +1,18 @@
+metric,value,note
+montessori_private_schools,2070,"Montessori private schools, NCES PSS 2023-24, 50 states and DC"
+children_under_5,18511160,"Resident children under 5, Census estimate of July 1, 2023, 50 states and DC"
+schools_per_10k_under5,1.12,"National rate, schools per 10,000 children under 5"
+children_under_5_per_school,8943,Children under 5 for each Montessori private school
+state_median_schools_per_10k_under5,0.97,Median of the 51 state rates (50 states and DC)
+states_with_a_school,51,States and DC with at least one school
+counties_with_a_school,570,Counties with at least one school
+counties_without_a_school,2574,Counties with no Montessori private school in the PSS file (not listed in by_county.csv)
+counties_without_a_school_5k_children,213,"Of those, counties with at least 5,000 children under 5"
+share_of_children_in_counties_without_a_school_pct,27.8,Share of US children under 5 who live in a county with no Montessori private school in the file
+counties_with_rate,434,"Of those, counties with at least 5,000 children under 5, where a rate is published"
+schools_in_counties_with_rate,1906,Schools located in counties where a rate is published
+private_schools_in_file,22510,"All private schools in the PSS 2023-24 file (national only, no state split)"
+montessori_share_of_private_schools_pct,9.2,National share only. A state share cannot be built from this source
+prek_enrollment_in_montessori_schools,99369,Prekindergarten pupils enrolled in these schools (PSS)
+population_vintage,"Vintage 2023, July 1, 2023","U.S. Census Bureau Population Estimates, Vintage 2023 county file, YEAR code 5"
+pss_wave,2023-24,NCES Private School Universe Survey wave
