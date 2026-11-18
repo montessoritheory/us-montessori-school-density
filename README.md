@@ -162,7 +162,7 @@ The code in `scripts/` rebuilds everything from the two inputs.
 
 ### Image Credits
 
-Cover photo by Anil Sharma on [Pexels](https://www.pexels.com/photo/40282981/), Pexels License. State outlines in the density map come from the Albers state file in `scripts/`. Charts by Montessori School Finder.
+State outlines in the density map come from the Albers state file in `scripts/`. Charts by Montessori School Finder.
 
 ### License And Citation
 
