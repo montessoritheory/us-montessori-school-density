@@ -1,0 +1,29 @@
+file,column,type,description,example
+by_state.csv,rank,integer,Rank by schools per 10000 children under 5 (1 = densest). Ties share a rank,1
+by_state.csv,state,str,State postal code,NH
+by_state.csv,state_name,str,State name (DC is the District of Columbia),New Hampshire
+by_state.csv,state_fips,str,2-digit state FIPS code,33
+by_state.csv,montessori_schools,integer,Montessori private schools in the NCES PSS 2023-24 file (any Montessori signal),18
+by_state.csv,children_under_5,integer,Resident children aged 0 to 4 on July 1 2023 (Census Bureau Vintage 2023 estimate; sum of the state's counties),62585
+by_state.csv,schools_per_10k_under5,float,Montessori private schools per 10000 children under 5 (2 decimals; ranked on the unrounded value),2.88
+by_state.csv,children_under_5_per_school,integer,Children under 5 for each Montessori private school (rounded),3477
+by_state.csv,rank_by_count,integer,Rank by number of schools (1 = most schools),29
+by_state.csv,prek_enrollment,integer,Prekindergarten pupils enrolled in the state's Montessori private schools (PSS),665
+by_state.csv,ams_member,integer,Schools that report membership in the American Montessori Society (PSS),11
+by_state.csv,ami_member,integer,Schools that report membership in the Association Montessori Internationale (PSS),1
+by_state.csv,total_population,integer,Resident population of all ages on July 1 2023 (Census Bureau),1402054
+by_state.csv,population_vintage,str,Census estimate vintage and reference date,"Vintage 2023, July 1, 2023"
+by_state.csv,msf_url,str,Montessori School Finder state page,https://www.montessorischoolfinder.com/locations/united-states/new-hampshire/
+by_county.csv,county_fips,str,5-digit county FIPS code (state + county). Keep as text to preserve leading zeros,51003
+by_county.csv,county_name,str,County name as published by the Census Bureau,Albemarle County
+by_county.csv,state,str,State postal code,VA
+by_county.csv,state_name,str,State name,Virginia
+by_county.csv,montessori_schools,integer,Montessori private schools in the county (NCES PSS 2023-24). Every row has at least one,5
+by_county.csv,children_under_5,integer,Resident children aged 0 to 4 on July 1 2023 (Census Bureau Vintage 2023),5520
+by_county.csv,rate_shown,bool,True when children under 5 is at least 5000 and a rate is published,True
+by_county.csv,schools_per_10k_under5,float,Schools per 10000 children under 5. Empty when rate_shown is False,9.06
+by_county.csv,rank_among_rated,integer,Rank among the counties that have a rate (1 = densest). Empty when no rate,1
+by_county.csv,total_population,integer,Resident population of all ages on July 1 2023 (Census Bureau),115676
+national_summary.csv,metric,str,Name of the national figure,schools_per_10k_under5
+national_summary.csv,value,str,Value of the figure,1.12
+national_summary.csv,note,str,What the figure covers,National rate. schools per 10000 children under 5

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, and credit the NCES Private School Universe Survey and the U.S. Census Bureau."
+type: dataset
+title: "US Montessori School Density by State and County, 2023-24"
+version: "1.0"
+date-released: 2026-11-18
+license: CC-BY-4.0
+authors:
+  - family-names: Carter
+    given-names: Sophia
+  - name: Montessori School Finder
+    website: "https://www.montessorischoolfinder.com/"
+  - name: Montessori Theory
+    website: "https://www.montessori-theory.com/"
+repository-code: "https://github.com/montessoritheory/us-montessori-school-density"
+url: "https://www.montessorischoolfinder.com/"
+abstract: "Montessori private schools per 10,000 children under 5, for 50 states and DC and for 570 counties, 2023-24. School counts from the NCES Private School Universe Survey, children from the U.S. Census Bureau Population Estimates, Vintage 2023."
+keywords: [Montessori, private schools, school density, NCES, PSS, Census Bureau, early childhood, United States, open data]
+references:
+  - type: data
+    title: "Private School Universe Survey (PSS), public-use data file, 2023-24"
+    authors:
+      - name: "U.S. Department of Education, National Center for Education Statistics"
+    url: "https://nces.ed.gov/surveys/pss/"
+  - type: data
+    title: "County Population by Characteristics, Vintage 2023 (cc-est2023-agesex-all)"
+    authors:
+      - name: "U.S. Census Bureau, Population Division"
+    url: "https://www2.census.gov/programs-surveys/popest/datasets/2020-2023/counties/asrh/cc-est2023-agesex-all.csv"
